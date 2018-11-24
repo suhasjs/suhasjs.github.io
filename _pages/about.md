@@ -25,3 +25,9 @@ Research Interests
 ==================
 * **Machine Learning** - algorithms for large-scale machine learning, deep learning, reinforcement learning
 * **Computer Systems** - parallel processing, distributed processing, large-scale machine learning, distributed machine learning systems, next-gen machine learning systems
+
+Contact
+=======
+Email: `j.s.suhas AT live.in`, `t-sujs AT microsoft.com`
+
+LinkedIn: [Suhas Jayaram Subramanya](https://in.linkedin.com/in/suhas-jayaram-subramanya-9aa144a5)
