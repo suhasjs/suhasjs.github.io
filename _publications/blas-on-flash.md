@@ -3,7 +3,7 @@ title: "BLAS-on-flash: an alternative for training large ML models?"
 collection: publications
 permalink: /publication/blas-on-flash
 excerpt: 'Many ML training tasks admit learning algorithms that can
-be  composed  with  linear  algebra.  On  large  datasets,  the
+be composed with linear algebra. On large datasets, the
 working set of these algorithms overflows the memory. For
 such scenarios, we propose a library that supports BLAS
 and sparseBLAS subroutines on large matrices resident on
