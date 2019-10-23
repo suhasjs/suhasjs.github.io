@@ -7,23 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Research Fellow at Microsoft Research India. I'm passionate about machine learning, computer systems and robotics. In the past, I've dabbled in a bit of reinforcement learning and natural language generation systems.
+I'm a first year Ph.D student in the CS Department at Carnegie Mellon University, fortunate to be advised by [Prof. Greg Ganger](https://www.archive.ece.cmu.edu/~ganger/). 
 
-Checkout [BLAS-on-flash](https://github.com/Microsoft/BLAS-on-flash) - a library to describe and execute computation graphs for data residing on disk. Our work has been accepted to [NSDI '19](http://harsha-simhadri.org/pubs/nsdi19_final.pdf) and [SysML '18](https://www.sysml.cc/doc/207.pdf).
+Previously, I spent two wonderful years at Microsoft Research India, where I worked with [Dr. Harsha Simhadri](http://harsha-simhadri.org/) on problems in Machine Learning and Systems. Our latest work (along with [Dr. Ravishankar Krishnaswamy](https://rakri.github.io/)) resulted in a practical, cost effective system for very large-scale approximate nearest neighbor search (and also a publication at NeurIPS '19). In ancient times, I have apparently worked on some topics in reinforcement learning and natural language generation systems.
 
-I'm currently working on two problems involving systems and machine learning. 
-* Ensemble-distillation procedures to enable training of deep relevance models on web-scale data with over 2 Billion training points with *Dr. Harsha Simhadri, Dr. Praneeth Netrapalli*
-* Developing a new algorithm to efficiently serve k-Approximate Nearest Neighour Search (k-ANNS) queries on over 10B vectors on a single multi-core system utilizing next-gen flash drives with *Dr. Harsha Simhadri, Dr. Ravishankar Krishnaswamy,* and *Dr. Amit Deshpande*
+I'm passionate about practical computer systems and am currently exploring different avenues for research. I'm primarily interested in the questions at the foundation of systems research involving performance, abstractions and utilization. I typically look at domain-specific systems like ML systems or Graph-systems and try to come up with a better way of doing things.
 
 Research Interests
 ==================
+* **Computer Systems** - performance engineering, design of efficient and powerful abstractions for domain-specific computation
 * **Machine Learning** - algorithms for large-scale machine learning, deep learning, reinforcement learning
-* **Computer Systems** - parallel processing, distributed processing, large-scale machine learning, distributed machine learning systems, next-gen machine learning systems
-* **Robotics** - multi-agent robotics, single-agent robotics, reinforcement learning for single-agent and multi-agent robotics
-
 
 Contact
 =======
-Email: `j.s.suhas AT live.in`, `t-sujs AT microsoft.com`
+Email: `j.s.suhas AT live.in`, `suhas AT cmu.edu`
 
 LinkedIn: [Suhas Jayaram Subramanya](https://in.linkedin.com/in/suhas-jayaram-subramanya-9aa144a5)

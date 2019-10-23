@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Suhas' Webpage"
 title_separator          : "-"
 name                     : &name "Suhas Jayaram Subramanya"
-description              : &description "Research Fellow at Microsoft Research India"
+description              : &description "Ph.D student @ Carnegie Mellon University"
 url                      : https://suhasjs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "suhasjs/suhasjs.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Suhas Jayaram Subramanya"
   avatar           : "jprofile.png"
-  bio              : "Research Fellow at Microsoft Research India"
+  bio              : "Ph.D Student @ Carnegie Mellon University"
   location         : "Bangalore, IN"
   employer         : "Microsoft Research India"
   googlescholar    :
-  email            : "j.s.suhas@live.in"
+  email            : "suhas@cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
