@@ -14,6 +14,6 @@ eigen-solvers. We believe that this approach could be a cost-
 effective alternative to expensive big-data compute system'
 date: 2018-02-15
 venue: 'Systems for Machine Learning Conference'
-paperurl: 'https://www.sysml.cc/doc/207.pdf'
-citation: 'Subramanya, Suhas Jayaram, Srajan Garg, and Harsha Vardhan Simhadri. "BLAS-on-flash: an alternative for training large ML models?."'
+paperurl: '/files/sysml18.pdf'
+citation: 'Suhas Jayaram Subramanya, Srajan Garg, and Harsha Vardhan Simhadri. "BLAS-on-flash: an alternative for training large ML models?."'
 ---
