@@ -83,8 +83,8 @@ author:
   name             : "Suhas Jayaram Subramanya"
   avatar           : "jprofile.png"
   bio              : "Ph.D Student @ Carnegie Mellon University"
-  location         : "Bangalore, IN"
-  employer         : "Microsoft Research India"
+  location         : "Pittsburgh, PA"
+  employer         : #"Microsoft Research India"
   googlescholar    :
   email            : "suhas@cmu.edu"
   uri              :
